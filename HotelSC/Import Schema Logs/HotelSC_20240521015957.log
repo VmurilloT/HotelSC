@@ -1,0 +1,88 @@
+20/05/2024 07:59:57 p. m.	This log contains information about the import schema operation into project 'HotelSC' on computer 'VMURILLOT' by user 'golo_'.
+20/05/2024 07:59:57 p. m.	Import of database schema has started.
+20/05/2024 08:00:03 p. m.	Gathering database credentials
+20/05/2024 08:00:03 p. m.	Gathering database options
+20/05/2024 08:00:03 p. m.	Gathering generic database scoped configuration option
+20/05/2024 08:00:03 p. m.	Gathering users
+20/05/2024 08:00:03 p. m.	Gathering roles
+20/05/2024 08:00:03 p. m.	Gathering application roles
+20/05/2024 08:00:03 p. m.	Gathering role memberships
+20/05/2024 08:00:03 p. m.	Gathering filegroups
+20/05/2024 08:00:03 p. m.	Gathering full-text catalogs
+20/05/2024 08:00:03 p. m.	Gathering assemblies
+20/05/2024 08:00:03 p. m.	Gathering certificates
+20/05/2024 08:00:03 p. m.	Gathering asymmetric keys
+20/05/2024 08:00:03 p. m.	Gathering symmetric keys
+20/05/2024 08:00:03 p. m.	Gathering encrypted symmetric keys
+20/05/2024 08:00:03 p. m.	Gathering schemas
+20/05/2024 08:00:03 p. m.	Gathering XML schema collections
+20/05/2024 08:00:03 p. m.	Gathering user-defined data types
+20/05/2024 08:00:03 p. m.	Gathering user-defined types
+20/05/2024 08:00:03 p. m.	Gathering table types
+20/05/2024 08:00:03 p. m.	Gathering unique keys for table types
+20/05/2024 08:00:03 p. m.	Gathering primary keys for table types
+20/05/2024 08:00:03 p. m.	Gathering indexes for table types
+20/05/2024 08:00:03 p. m.	Gathering check constraints for table types
+20/05/2024 08:00:03 p. m.	Gathering default constraints for table types
+20/05/2024 08:00:03 p. m.	Gathering partition functions
+20/05/2024 08:00:03 p. m.	Gathering partition schemes
+20/05/2024 08:00:03 p. m.	Gathering functions
+20/05/2024 08:00:03 p. m.	Gathering encrypted functions
+20/05/2024 08:00:03 p. m.	Gathering aggregates
+20/05/2024 08:00:03 p. m.	Gathering procedures
+20/05/2024 08:00:03 p. m.	Gathering encrypted procedures
+20/05/2024 08:00:03 p. m.	Gathering tables
+20/05/2024 08:00:03 p. m.	Gathering primary keys
+20/05/2024 08:00:03 p. m.	Gathering unique constraints
+20/05/2024 08:00:03 p. m.	Gathering foreign keys
+20/05/2024 08:00:03 p. m.	Gathering default constraints
+20/05/2024 08:00:03 p. m.	Gathering check constraints
+20/05/2024 08:00:03 p. m.	Gathering views
+20/05/2024 08:00:03 p. m.	Gathering encrypted views
+20/05/2024 08:00:03 p. m.	Gathering indexes
+20/05/2024 08:00:03 p. m.	Gathering statistics
+20/05/2024 08:00:03 p. m.	Gathering full-text index stoplists
+20/05/2024 08:00:04 p. m.	Gathering search property lists
+20/05/2024 08:00:04 p. m.	Gathering search properties
+20/05/2024 08:00:04 p. m.	Gathering full-text indexes
+20/05/2024 08:00:04 p. m.	Gathering column store indexes
+20/05/2024 08:00:04 p. m.	Gathering spatial indexes
+20/05/2024 08:00:04 p. m.	Gathering XML indexes
+20/05/2024 08:00:04 p. m.	Gathering Selective XML indexes
+20/05/2024 08:00:04 p. m.	Gathering encrypted triggers
+20/05/2024 08:00:04 p. m.	Gathering triggers
+20/05/2024 08:00:04 p. m.	Gathering encrypted and clr ddl triggers
+20/05/2024 08:00:04 p. m.	Gathering ddl triggers
+20/05/2024 08:00:04 p. m.	Creating edge constraints
+20/05/2024 08:00:04 p. m.	Gathering synonyms
+20/05/2024 08:00:04 p. m.	Gathering defaults
+20/05/2024 08:00:04 p. m.	Gathering data constraint uddt bindings
+20/05/2024 08:00:04 p. m.	Gathering rules
+20/05/2024 08:00:04 p. m.	Gathering data constraint uddt bindings
+20/05/2024 08:00:04 p. m.	Gathering message types
+20/05/2024 08:00:04 p. m.	Gathering queues
+20/05/2024 08:00:04 p. m.	Gathering contracts
+20/05/2024 08:00:04 p. m.	Gathering services
+20/05/2024 08:00:04 p. m.	Gathering event notifications
+20/05/2024 08:00:04 p. m.	Gathering remote service bindings
+20/05/2024 08:00:04 p. m.	Gathering broker priorities
+20/05/2024 08:00:04 p. m.	Gathering signatures
+20/05/2024 08:00:04 p. m.	Gathering compression options
+20/05/2024 08:00:04 p. m.	Gathering sequence types
+20/05/2024 08:00:04 p. m.	Gathering security policies
+20/05/2024 08:00:04 p. m.	Gather column encryption keys
+20/05/2024 08:00:04 p. m.	Gathering column master keys
+20/05/2024 08:00:04 p. m.	Gathering external data sources
+20/05/2024 08:00:04 p. m.	Gathering external file formats
+20/05/2024 08:00:04 p. m.	Gathering external tables
+20/05/2024 08:00:04 p. m.	Gathering XML index compression options
+20/05/2024 08:00:04 p. m.	Gathering extended properties
+20/05/2024 08:00:04 p. m.	Gathering assemblies
+20/05/2024 08:00:04 p. m.	Gathering credentials
+20/05/2024 08:00:04 p. m.	Gathering logins
+20/05/2024 08:00:04 p. m.	Gathering server audits
+20/05/2024 08:00:04 p. m.	Scanning project for duplicate elements
+20/05/2024 08:00:04 p. m.	Finished duplicate element processing
+20/05/2024 08:00:15 p. m.	Finished importing database.
+20/05/2024 08:00:15 p. m.	A summary of the import was saved to the following location: C:\Users\golo_\source\repos\HotelSC\HotelSC\Import Schema Logs\HotelSC_20240521015957.log
+20/05/2024 08:00:15 p. m.	Click Finish to continue...
