@@ -1,7 +1,7 @@
 ﻿CREATE TABLE [dbo].[Room] (
-    [RoomId]    INT          NOT NULL,
+    [RoomId]    INT     IDENTITY     NOT NULL,
     [Name]      VARCHAR (50) NOT NULL,
-    [Type]      VARCHAR (50) NOT NULL,
+    [RoomTypeId]      INT NOT NULL,
     [Status]    INT          NOT NULL,
     [PriceBase] DECIMAL (18) NOT NULL,
     CONSTRAINT [PK_Room] PRIMARY KEY CLUSTERED ([RoomId] ASC)
