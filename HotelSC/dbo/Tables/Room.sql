@@ -4,8 +4,10 @@
     [RoomTypeId]      INT NOT NULL,
     [Status]    INT          NOT NULL,
     [PriceBase] DECIMAL (18) NOT NULL,
-    CONSTRAINT [PK_Room] PRIMARY KEY CLUSTERED ([RoomId] ASC)
-);
+    CONSTRAINT [PK_Room] PRIMARY KEY CLUSTERED ([RoomId] ASC),
+    Foreign Key([RoomTypeId])
+    References RoomTypes([RoomTypeId])
+)
 
 
 GO
