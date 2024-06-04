@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[Reservation] (
-    [ReservationId]   INT          NOT NULL,
+    [ReservationId]   INT          NOT NULL IDENTITY,
     [RoomId]          INT          NOT NULL,
     [CheckIn]         DATETIME     NOT NULL,
     [CheckOut]        DATETIME     NOT NULL,
