@@ -1,9 +1,9 @@
 ﻿CREATE TABLE [dbo].[Reservation] (
     [ReservationId]   INT          NOT NULL IDENTITY,
     [RoomId]          INT          NOT NULL,
-    [CheckIn]         DATETIME     NOT NULL,
-    [CheckOut]        DATETIME     NOT NULL,
-    [ReservationDate] DATETIME     NOT NULL,
+    [CheckIn]         DATE     NOT NULL,
+    [CheckOut]        DATE     NOT NULL,
+    [ReservationDate] DATE     NOT NULL,
     [Price]           DECIMAL (18) NOT NULL,
     [Status]          NCHAR (10)   NULL,
     [GuestId]         INT          NULL,

@@ -61,7 +61,6 @@
     <Folder Include="Properties" />
     <Folder Include="dbo\" />
     <Folder Include="dbo\Tables\" />
-    <Folder Include="Mock" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Guest.sql" />
@@ -71,7 +70,6 @@
     <Build Include="dbo\Tables\Reservation.sql" />
     <Build Include="dbo\Tables\Payment.sql" />
     <Build Include="dbo\Tables\RoomTypes.sql" />
-    <Build Include="Mock\Script1.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Mock\GuestMock.sql" />
